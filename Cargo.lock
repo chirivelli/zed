@@ -7665,6 +7665,7 @@ dependencies = [
  "collections",
  "db",
  "editor",
+ "file_icons",
  "fs",
  "git",
  "git_ui",
